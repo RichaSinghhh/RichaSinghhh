@@ -1,4 +1,4 @@
-![Your Alt Text].(profile banner/png)
+![logo](https://github.com/RichaSinghhh/RichaSinghhh/blob/main/profile%20banner.png)
 ## Hi there I'm Richa 👋
 
 # 💫 About Me:
