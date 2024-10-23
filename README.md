@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there I'm Richa 👋
 
 # 💫 About Me:
-Hi there 👋, I'm Richa<br>I'm a data enthusiast with strong skills in Python, Power BI, Advanced Excel, and MySQL. I love turning data into actionable insights and solving problems through data-driven solutions.<br><br>🔧 Technologies & Tools:<br>Languages: Python, SQL (MySQL)<br>Data Visualization: Power BI, Excel<br>Databases: MySQL<br>Others: Advanced Excel for data analysis
+<br>I'm a data enthusiast with strong skills in Python, Power BI, Advanced Excel, and MySQL. I love turning data into actionable insights and solving problems through data-driven solutions.<br><br>🔧 Technologies & Tools:<br>Languages: Python, SQL (MySQL)<br>Data Visualization: Power BI, Excel<br>Databases: MySQL<br>Others: Advanced Excel for data analysis
 
 
 ## 🌐 Socials:
