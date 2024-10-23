@@ -1,3 +1,4 @@
+![Your Alt Text].(profile banner/png)
 ## Hi there I'm Richa 👋
 
 # 💫 About Me:
